@@ -1642,3 +1642,54 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2483.466693 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/Animations/Mask_Upper.mask
+  artifactKey: Guid(8f022796fa5205e4483f40dd7b373bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/Animations/Mask_Upper.mask using Guid(8f022796fa5205e4483f40dd7b373bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c9c0a45862737856812d2381e99dde') in 1.199351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 292.794674 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/Animations_Static.fbx
+  artifactKey: Guid(7039333667ba45840b1411867278ee2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/Animations_Static.fbx using Guid(7039333667ba45840b1411867278ee2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd119e1b5159d6fb0c9d8abd591dce5d2') in 0.355111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/SM_Prop_StoneWall_01.fbx
+  artifactKey: Guid(83566b3fe600f364daa9d18fd667ea7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/SM_Prop_StoneWall_01.fbx using Guid(83566b3fe600f364daa9d18fd667ea7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712c23321f31a64d33121ba6e70bd2a0') in 1.836688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003097 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/Prop_Barrier02.fbx
+  artifactKey: Guid(78056cefff7010745ae502ceee2d13e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/Prop_Barrier02.fbx using Guid(78056cefff7010745ae502ceee2d13e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e958f2769e434a70a5532679df28df') in 0.073448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/SM_Prop_Barrel_02.fbx
+  artifactKey: Guid(bc0208005b6890d44994050c677eb13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/SM_Prop_Barrel_02.fbx using Guid(bc0208005b6890d44994050c677eb13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6498e871f18ea47af6029d05cd276582') in 0.052562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/SM_Prop_Synty_Cube_01.fbx
+  artifactKey: Guid(6cfe01e70a444224f8eb725e2b22452d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/SM_Prop_Synty_Cube_01.fbx using Guid(6cfe01e70a444224f8eb725e2b22452d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a65778ff210e1206a710aa5ecf307bc9') in 0.052393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/SM_Tree_Log_02.fbx
+  artifactKey: Guid(66682d92283698d4ab87d966968fcccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/SM_Tree_Log_02.fbx using Guid(66682d92283698d4ab87d966968fcccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3917832f09e9757c89796846d4ce3d4d') in 0.047960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/SimplePeople.fbx
+  artifactKey: Guid(c72c97e952bf7834b85e6164373d310d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/SimplePeople.fbx using Guid(c72c97e952bf7834b85e6164373d310d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871bbe0bab4cb926f5c6a4685ea1a99d') in 0.883710 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting

@@ -353,7 +353,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Course Library/scripts/DestroyOutOfBounds copy.cs (poroto3-101).cs"
+"Assets/Course Library/scripts/MoveLeft.cs"
 "Assets/Course Library/scripts/PlayerController.cs"
+"Assets/Course Library/scripts/RepeatBackground.cs"
+"Assets/Course Library/scripts/SpawnManager.cs (poroto3-101).cs"
 -langversion:9.0
 
 /deterministic

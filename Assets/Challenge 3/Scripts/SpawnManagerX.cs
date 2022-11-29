@@ -6,7 +6,7 @@ public class SpawnManagerX : MonoBehaviour
 {
     public GameObject[] objectPrefabs;
     private float spawnDelay = 2;
-    private float spawnInterval = 1.5f;
+    private float spawnInterval = 2f;
     private Vector3 spawnPos = new Vector3(27, 10, 0);
 
     private PlayerControllerX playerControllerScript;
@@ -16,6 +16,8 @@ public class SpawnManagerX : MonoBehaviour
     {
         InvokeRepeating("SpawnObjects", spawnDelay, spawnInterval);
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerControllerX>();
+        
+        Debug.Log(playerControllerScript.gameOver);
     }
 
     // Spawn obstacles

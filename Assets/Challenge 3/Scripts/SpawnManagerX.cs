@@ -6,8 +6,8 @@ public class SpawnManagerX : MonoBehaviour
 {
     public GameObject[] objectPrefabs;
     private float spawnDelay = 2;
-    private float spawnInterval = 2f;
-    private Vector3 spawnPos = new Vector3(27, 10, 0);
+    private float spawnInterval = 1.5f;
+    //private Vector3 spawnPos = new Vector3(27, 10, 0);
 
     private PlayerControllerX playerControllerScript;
 
